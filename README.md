@@ -1,4 +1,4 @@
 # Count-Up
-Form to Count with C#
+Count form made in C#
 
 
